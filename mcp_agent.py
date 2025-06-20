@@ -4,7 +4,7 @@ import requests
 from openai import OpenAI
 
 MODEL_NAME = "qwen-max"
-DASHSCOPE_API_KEY = "sk-3a55e846f3d6457ca72db44632739873"
+DASHSCOPE_API_KEY = "your_api_key"
 MCP_SERVER_URL = "http://localhost:8000/mcp"  # 替换为实际的MCP服务器地址
 
 client = OpenAI(
