@@ -10,3 +10,4 @@ wangdepeng97@163.com
 - **MCP工具绝对的应用实战**
 - **完全符合JSON-RPC 2.0协议即插即用**
 ## 展示效果
+![Uploading a4100ee106f891d91e4c8431312afad.png…]()
